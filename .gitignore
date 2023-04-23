@@ -3,3 +3,4 @@
 **/target/**/*
 
 .fake
+day09/part2.py
